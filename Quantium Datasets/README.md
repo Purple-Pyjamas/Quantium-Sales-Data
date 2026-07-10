@@ -1,0 +1,1 @@
+This folder contains the data sets used for this job simulation. The Transaction data and the merged data were both provided by Quantium for the job, while the Merged data shows most of the changes I made to the datasets provided to make it standardized and eaier to work with.
