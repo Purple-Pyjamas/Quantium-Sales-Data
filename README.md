@@ -86,7 +86,7 @@ Along with my analysis, I generated charts using ggplot2 to show and not just te
 
 ## :bulb: Key Findings & Insights
 -	:chart: **Revenue Growth**: The customer segments bringing in the most amount of revenue are the Older families on a budget, the young singles/couples, and the retiree mainstream shoppers.
--	:construction_worker_woman: **Customer behavior** Mainstream, middle aged and young singles/couples are also more likely to pay more per packet of chips. This is indicative of impulse buying behavior.
+-	:construction_worker_woman: **Customer behavior**: Mainstream, middle aged and young singles/couples are also more likely to pay more per packet of chips. This is indicative of impulse buying behavior.
 -	:trophy: **Top Category**: The top 5 chips that customers prefer to buy are the Kettles, Smiths, Pringles, Doritos, and Thins brands. The category manager might want to increase performance by increasing stock availability for these products.
 -	:warning: **Underperformer**: Our least priority customers are the new families, especially the premium buyers. They are not bringing in nearly enough money. We should rather focus more on the mainstream and budget buyers, especially those who are in the young singles/couples or older families’ category.
 -	:hourglass_flowing_sand: **Seasonality**: Sales peak in December, and that is something the manager might want to leverage by increasing discount offers and promotional sales from late November to drive traffic.
